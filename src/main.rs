@@ -1,5 +1,8 @@
 use leptos::*;
 
+mod app;
+use crate::app::App;
+
 fn main() {
-    mount_to_body(|| view! { <p>"Hello, World!"</p> })
+    mount_to_body(|| view! { <App /> })
 }
