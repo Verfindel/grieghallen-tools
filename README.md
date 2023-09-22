@@ -1,2 +1,2 @@
-# grieghallen-tools
-Some tools for Grieghallen employees.
+# Leptos testing
+Testing out the leptos framework.
